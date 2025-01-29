@@ -9,7 +9,7 @@ html {
 
 body {
     font-family: "Outfit", serif;
-	background-image: url('/public/bg_clima.jpg');
+	background-image: url('/bg_clima.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: var(--white);
